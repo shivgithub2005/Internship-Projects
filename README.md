@@ -1,6 +1,6 @@
 # Internship-Projects
-Customer Feedback Analysis
-This project focuses on analyzing customer feedback data to extract meaningful insights that can drive better decision-making and improve customer satisfaction.
+# Customer Feedback Analysis
+    This project focuses on analyzing customer feedback data to extract meaningful insights that can drive better decision-making and improve customer satisfaction.
 
 🔄 Workflow Summary:
   Data Import:
